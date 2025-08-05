@@ -33,6 +33,5 @@ for Player 1 and one for Player 2—and the result is displayed visually along w
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/dice-game.git
+   [git clone https://github.com/your-username/dice-game.git](https://github.com/jabinjames/Simle-DIce-Game-Using-HTML-CSS-JAVASCRIPT)
    cd dice-game
