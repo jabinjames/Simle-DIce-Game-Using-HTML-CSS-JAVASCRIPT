@@ -20,13 +20,13 @@ for Player 1 and one for Player 2—and the result is displayed visually along w
 ![Initial](Projects/screenshot/Screenshot1.png)
 
 ### Player 1 Wins
-![Player2 Wins](./assets/Screenshot%202025-08-05%20193040.png)
+![Player2 Wins](Projects/screenshot/Screenshot3.png)
 
 ### Player 2 Wins
-![Player2 Wins](./assets/Screenshot%202025-08-05%20193040.png)
+![Player2 Wins](Projects/screenshot/Screenshot2.png)
 
 ### Draw
-![Draw](./assets/Screenshot%202025-08-05%20193100.png)
+![Draw](Projects/screenshot/Screenshot4.png)
 
 ---
 
