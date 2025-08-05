@@ -17,7 +17,7 @@ for Player 1 and one for Player 2—and the result is displayed visually along w
 ## 📷 Screenshots
 
 ### Initial State
-![Initial](./assets/Screenshot%202025-08-05%20192947.png)
+![Initial](Projects/screenshot/Screenshot1.png)
 
 ### Player 1 Wins
 ![Player2 Wins](./assets/Screenshot%202025-08-05%20193040.png)
